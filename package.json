@@ -1,0 +1,23 @@
+{
+  "name": "jest-library",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "charCount.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayner2002/jest-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yayner2002/jest-library/issues"
+  },
+  "homepage": "https://github.com/yayner2002/jest-library#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
